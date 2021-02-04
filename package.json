@@ -1,0 +1,26 @@
+{
+  "name": "@toviszsolt/npm-test-package",
+  "version": "1.0.6",
+  "description": "Keep Calm and Install my first Npm package.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "first-time",
+    "npm",
+    "test",
+    "package"
+  ],
+  "author": "Zsolt Tovis",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/toviszsolt/npm-test-package.git"
+  },
+  "bugs": {
+    "url": "https://github.com/toviszsolt/npm-test-package/issues"
+  },
+  "homepage": "https://toviszsolt.github.io/"
+}
