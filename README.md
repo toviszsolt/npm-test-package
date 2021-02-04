@@ -1,4 +1,4 @@
-![npm](https://img.shields.io/npm/v/@toviszsolt/npm-test-package?color=red&logo=npm&style=for-the-badge)
+[![npm](https://img.shields.io/npm/v/@toviszsolt/npm-test-package?color=red&logo=npm&style=for-the-badge)](https://www.npmjs.com/package/@toviszsolt/npm-test-package)
 
 # About this package
 
