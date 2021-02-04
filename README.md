@@ -1,3 +1,5 @@
+![npm](https://img.shields.io/npm/v/@toviszsolt/npm-test-package?color=red&logo=npm&style=for-the-badge)
+
 # About this package
 
 Keep Calm and Install my first Npm package.
